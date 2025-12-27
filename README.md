@@ -103,5 +103,17 @@ Primary data collected daily includes:
 - **Statistical Methods** – Correlation, descriptive metrics
 
 ---
+## 📄 Project Reports (Direct View)
 
-## 📂 Project Structure
+- 🔗 **BDM Proposal Report (PDF)**  
+  https://babai987-coder.github.io/CASE-STUDY-OF-SATYANARAYAN-GROCERY-STORE/23f2001704_BDM_Proposal.pdf
+
+- 🔗 **Mid-Term Report (PDF)**  
+  https://babai987-coder.github.io/CASE-STUDY-OF-SATYANARAYAN-GROCERY-STORE/23f2001704_Capstone_Mid-Term_Report.pdf
+
+- 🔗 **Final Case Study Report (PDF)**  
+  https://babai987-coder.github.io/CASE-STUDY-OF-SATYANARAYAN-GROCERY-STORE/CASE_STUDY_OF_SATYANARAYAN_GROCERY_STORE_Final.pdf
+
+- 🔗 **Project Presentation**  
+  https://babai987-coder.github.io/CASE-STUDY-OF-SATYANARAYAN-GROCERY-STORE/Presentation.pdf
+
